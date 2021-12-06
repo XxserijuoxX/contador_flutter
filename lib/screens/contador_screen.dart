@@ -8,9 +8,6 @@ class _ContadorScreenState extends State<ContadorScreen> {
   int contador = 0;
 
   @override
-  
-  
-  
   Widget build(BuildContext context) {
     TextStyle fontSize20 = const TextStyle (fontSize: 20);
     
